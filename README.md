@@ -3,10 +3,6 @@
 # Kim Jaehoon
 
 ### Software Science @ Dankook University  
-### AI Backend · Data Pipeline · Software Engineering
-
-Python/FastAPI 기반 AI 백엔드와 데이터 파이프라인을 중심으로,  
-**데이터 수집 → 전처리 → 분석 → API → 실제 서비스 연결**까지 이어지는 흐름을 구현하는 데 관심이 있습니다.
 
 </div>
 
