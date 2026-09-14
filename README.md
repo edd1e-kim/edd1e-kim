@@ -152,7 +152,6 @@ Docker의 실질적인 가치와 확장 가능성을 분석한 오픈소스 소�
 - 관련 기술 및 사례 비교
 - 컨테이너 기반 개발 환경의 장점과 활용 가능성 정리
 
-> This repository is a fork of the original team repository.
 
 ---
 
