@@ -178,7 +178,7 @@ A Better Software Engineer
 <div align="center">
 
 ### 방문해주셔서 감사합니다!
-###ご覧いただきありがとうございます!
+### ご覧いただきありがとうございます!
 ### Thanks for visiting!
 
 
