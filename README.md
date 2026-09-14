@@ -171,13 +171,16 @@ A Better Software Engineer
 ```
 
 아직 특정 분야 하나로 진로를 한정하기보다,  
-**탄탄한 CS 기초와 다양한 프로젝트 경험을 바탕으로 문제를 해결할 수 있는 소프트웨어 엔지니어**로 성장하는 것을 목표로 하고 있습니다.
+**탄탄한 CS 기초와 다양한 프로젝트 경험을 바탕으로 문제를 해결할 수 있는 사람**로 성장하는 것을 목표로 하고 있습니다.
 
 ---
 
 <div align="center">
 
+### 방문해주셔서 감사합니다!
+###ご覧いただきありがとうございます!
 ### Thanks for visiting!
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-edd1e--kim-181717?style=flat-square&logo=github)](https://github.com/edd1e-kim)
 
