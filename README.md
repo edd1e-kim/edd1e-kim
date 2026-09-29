@@ -1,8 +1,6 @@
 <div align="center">
 
-# 김재훈
-# Kim Jaehoon
-# キム・ジェフン
+# Kim Jaehoon / 김재훈 / キム・ジェフン
 
 ### Software Science @ Dankook University
 
