@@ -2,8 +2,6 @@
 
 # Kim Jaehoon / 김재훈 / キム・ジェフン
 
-### Software Science @ Dankook University
-
 ### Software Engineering · Backend · Cloud / Infrastructure Fundamentals
 
 특정 분야를 일찍 좁히기보다,  
